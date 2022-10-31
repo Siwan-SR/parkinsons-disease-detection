@@ -38,7 +38,7 @@ The model was made using [Scikit-Learn](https://scikit-learn.org/) an excellent 
 
 * Explore the data
 * Visualize our data
-* Fit and instantiate the mode;
+* Fit and instantiate the model
 * Describe our model
 
 ### What you will find
